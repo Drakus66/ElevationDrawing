@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- ElevationDrawing
+     https://stroytekproekt.ru/
+     © Stroytekproekt, 2020
+	 
+	 The manifest file. -->
+<RevitAddIns>
+  <AddIn Type="Application">
+  	<AddInId>716d7647-a604-4161-b2f7-4cf679aee7c5</AddInId>
+    <Name>ElevationDrawing</Name>
+    <Assembly>ElevationDrawing/ElevationDrawing.dll</Assembly>
+    <FullClassName>STP.ElevationDrawing.ExternalApplication</FullClassName>
+    <VendorId>ru.stroytekproekt</VendorId>
+    <VendorDescription>Stroytekproekt, https://stroytekproekt.ru/</VendorDescription>
+  </AddIn>
+</RevitAddIns>
